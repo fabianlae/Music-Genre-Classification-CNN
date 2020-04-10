@@ -6,6 +6,13 @@ The purpose of this seminar work is to classify the music genre of song snippets
 3. Load and fine-tune VGG16 model (added five layers: Flatten -> Dropout -> Dense -> Dropout -> Output Layer Softmax)
 4. Train and Test model
 
+**Final results of the trained VGG16 transfer-learning prediction model:**
+
+![](my_models/transfer_20epoch_59acc_final_acc.png)
+
+
+
+
 Main sources:
 1. https://github.com/priya-dwivedi/Music_Genre_Classification
 2. https://github.com/HareeshBahuleyan/music-genre-classification
